@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "codigos-python",
+			"path": "../../../Documentos/AprendendoGithub/codigos-python"
+		},
+		{
+			"name": "Matemáticos",
+			"path": "../Matemáticos"
+		},
+		{
+			"name": "Análisador",
+			"path": "../Análisador"
+		},
+		{
+			"name": "Cadastro",
+			"path": "../Cadastro"
+		},
+		{
+			"name": "Códigos simples",
+			"path": "../Códigos simples"
+		},
+		{
+			"name": "Games",
+			"path": "../Games"
+		},
+		{
+			"name": "Gerador",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
